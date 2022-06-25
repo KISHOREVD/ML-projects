@@ -1,2 +1,2 @@
-# ML-project
-This respository consists of machine learning projects and assignment 
+# ML-Assigments
+This respository contains my machine learning assignment and project works 
